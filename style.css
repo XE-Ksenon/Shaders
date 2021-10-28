@@ -31,7 +31,7 @@ ul.mainMenu li a
 ul.mainMenu li a:hover
 {
     text-decoration: none;
-    background-color: rgba(30, 30, 30, 0.95);
+    background-color: rgba(40, 40, 40, 0.95);
     color: rgb(180, 200, 250);
     display: block;
     padding: 1rem;
